@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>xlazybutton</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (UIButton *)&lt;#name#&gt; {
+    if (!_&lt;#name#&gt;) {
+        _&lt;#name#&gt; = [UIButton buttonWithType:UIButtonTypeCustom];
+        _&lt;#name#&gt;.backgroundColor = UIColorHex(ffffff);
+        [_&lt;#name#&gt; setTitle:@"Cancel" forState:UIControlStateNormal];
+        [_&lt;#name#&gt; setTitleColor:UIColorHex(333333) forState:UIControlStateNormal];
+        _&lt;#name#&gt;.titleLabel.font = [UIFont systemFontOfSize:18];
+    }
+    return _&lt;#name#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>51724B0F-C8D2-4567-8D79-5B0583D63087</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Button</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Lazy</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
