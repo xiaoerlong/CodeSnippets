@@ -22,13 +22,13 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>51724B0F-C8D2-4567-8D79-5B0583D63087</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>Button</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazy</string>
+	<string>Lazy-Button</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

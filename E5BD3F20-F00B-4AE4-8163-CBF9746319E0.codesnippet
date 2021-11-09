@@ -19,13 +19,13 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E5BD3F20-F00B-4AE4-8163-CBF9746319E0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>ImageView</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazy</string>
+	<string>Lazy-ImageView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
